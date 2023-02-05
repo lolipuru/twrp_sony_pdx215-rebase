@@ -1,1 +1,3 @@
-# android_device_xiaomi_haydn_TWRP
+# woof woof amend warning woof woof
+
+thanks sekaiacg for twrp base
